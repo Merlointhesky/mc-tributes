@@ -40,4 +40,5 @@ The compiled JAR will be in `build/libs/`.
 
 ## License
 
-This project is open source. See the repository for license details.
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
+

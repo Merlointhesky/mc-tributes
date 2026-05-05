@@ -1,0 +1,15 @@
+# Gradle
+.gradle/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Compiled / generated
+bin/
+out/
+
+# Logs
+*.log

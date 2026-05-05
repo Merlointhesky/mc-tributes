@@ -1,0 +1,3 @@
+Welcome, {player}! May the odds be ever in your favour.
+LIST OF MODS: Tributes (by Krob), Auraskills, Simple Voice Chat, Bluemap and Markers, 
+Sit and SimpleGraves.

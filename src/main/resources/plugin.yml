@@ -1,0 +1,5 @@
+name: Tributes
+version: '1.0.1'
+main: com.tributes.TributesPlugin
+api-version: '1.21'
+description: Tracks player deaths as tributes and plays cannon sounds

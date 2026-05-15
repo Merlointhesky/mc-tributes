@@ -19,7 +19,7 @@ public class DeathListener implements Listener {
         this.plugin = plugin;
     }
 
-    @EventHandler(priority = EventPriority.MONITOR)
+    @EventHandler(priority = EventPriority.LOW)
     public void onPlayerDeath(PlayerDeathEvent event) {
         Player player = event.getEntity();
 
